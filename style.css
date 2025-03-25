@@ -46,6 +46,7 @@ img{
         margin: 1rem auto;
         flex-wrap: nowrap;
         flex-direction: column;
+        justify-content: space-between;
         img{
             width: 100%;
             height: auto;
